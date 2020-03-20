@@ -15,7 +15,6 @@
 # Request number 1 and save as variable num1.                                   #
 # Request number 2 and save as variable num2.                                   #
 # Display Program Menu Options                                                  #
-# Request number of menu option to perform.                                     #
 # Calculate the sum of num1, num2 and save as variable value1                   #
 # Calculate the product of num1, num2 and save as variable value2               #
 # Calculate the difference of num1, num2 and save as variable value3            #
